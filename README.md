@@ -36,3 +36,11 @@ Start generating Morelo wallets securely with our Wallet Generator:
 We welcome feedback, suggestions, and contributions to improve our Wallet Generator and enhance the Morelo experience. Feel free to open issues, submit pull requests, or reach out to us with your ideas.
 
 Thank you for your interest in Morelo Network!
+
+## Morelo Network
+
+
+Copyright (c) 2020-2024, The Morelo Network
+Copyright (c) 2018-2020, The Arqma Network
+Copyright (c) 2014-2021, The Monero Project
+Portions Copyright (c) 2012-2013 The Cryptonote developers
