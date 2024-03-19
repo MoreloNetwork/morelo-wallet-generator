@@ -2,8 +2,6 @@
 
 Welcome to the official GitHub repository for the Morelo Network Wallet Generator!
 
-[https://generate.morelonetwork.pl/](https://generate.morelonetwork.pl/)
-
 ### About Morelo Network
 
 Morelo Network is a decentralized blockchain platform focused on providing secure, private, and scalable transactions. Our Wallet Generator is designed to empower users to generate Morelo wallets securely and conveniently.
@@ -29,7 +27,7 @@ To generate a Morelo wallet:
 
 Start generating Morelo wallets securely with our Wallet Generator:
 
-🔐 [Morelo Wallet Generator](#)
+🔐 [Morelo Wallet Generator](https://generate.morelonetwork.pl/)
 
 ### Feedback and Contributions
 
